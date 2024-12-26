@@ -1,1 +1,1 @@
-# Scimilaririty_retraining
+# A cell atlas foundation model retraining
